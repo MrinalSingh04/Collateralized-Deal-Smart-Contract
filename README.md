@@ -23,7 +23,7 @@ In many real-world cases, deals break due to lack of trust. This smart contract 
 ## 🔧 Tech Stack
 
 - **Solidity** (Smart Contract)
-- **Hardhat** (Development environment)
+- **Hardhat** (Development environment/ deployment)
 - **Ethers.js v6** (for testing and scripting)
 - **Mocha + Chai** (for unit tests)
 
